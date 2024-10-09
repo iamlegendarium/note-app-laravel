@@ -68,10 +68,10 @@ Follow these steps to set up the project locally:
 
 The application will be accessible at http://localhost:8000.
 
-Usage
+**Usage**
 Register a new user account or log in if you already have an account.
 Navigate to the dashboard to view, create, edit, or delete notes.
 Go to the profile section to update your account details or change your password.
 
-Contributing
+**Contributing:**
 If you'd like to contribute to this project, feel free to fork the repository and submit a pull request.
