@@ -75,3 +75,7 @@ Go to the profile section to update your account details or change your password
 
 **Contributing:**
 If you'd like to contribute to this project, feel free to fork the repository and submit a pull request.
+
+**Author**
+AREGBESOLA JOHN BELOVED
++2348118870050
